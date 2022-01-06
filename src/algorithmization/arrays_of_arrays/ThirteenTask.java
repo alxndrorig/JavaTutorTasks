@@ -9,9 +9,6 @@ import java.util.Random;
 
 public class ThirteenTask {
     private static String thirteenthTask() {
-        /*
-        Отсортировать столбцы матрицы по возрастанию и убыванию значений элементов.
-         */
         StringBuilder result = new StringBuilder("Initial matrix: \n");
         int[][] matrix = new int[3][3];
         Random random = new Random();

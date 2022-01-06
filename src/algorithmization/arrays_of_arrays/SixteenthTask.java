@@ -12,10 +12,6 @@ import java.util.Arrays;
 
 public class SixteenthTask {
     private static String sixteenthTask(int n) {
-        /*
-
-         */
-
         int[][] square = new int[n][n];
 
         if (n % 2 != 0) {

@@ -11,9 +11,6 @@ import java.util.Scanner;
 
 public class TwelfthTask {
     private static void twelfthTask() {
-        /*
-
-         */
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter K. K must be less than 10");
         int k;

@@ -8,9 +8,6 @@ package algorithmization.one_dimensional_arrays;
 
 public class NinthTask {
     private static int ninthTask(int n, int[] source){
-        /*
-
-         */
         int[] numbers = new int[n];
         for (int i = 0; i < n; i++) {
             numbers[i] = source[i];

@@ -21,7 +21,6 @@ public class FirstTask {
             return;
         }
 
-
         System.out.printf("NOD = %d\nNOK = %d\n", getNOD(a, b), getNOK(a, b));
     }
 
