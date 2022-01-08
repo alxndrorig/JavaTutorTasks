@@ -1,0 +1,25 @@
+# Default ignored files
+/.idea/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../:\Java\EpamCourse\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+IntroductionToJavaOnline.iml
+
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+replay_pid*
+
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
